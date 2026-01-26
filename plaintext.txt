@@ -1,0 +1,93 @@
+***************************************************************************************************
+*                                                                                                 *
+*                                Secret message - Top Secret                                      *
+*                                                                                                 *
+*                      May only be read by security passed personnel                              *
+*                                                                                                 *
+***************************************************************************************************
+
+      The human brain stands alone when it comes to creative thinking and ingenuity. But it seems like machines are catching up. Dramatic innovations in computer science have led to the creation of artificial neural networks that can mimic human intelligence. Today, a computer system can perform complex tasks like chatting with customers or writing software applications. This is made possible by computer science concepts known as artificial intelligence (AI) and machine learning (ML). Although these two concepts are closely related, they are not synonymous. Here’s a breakdown of machine learning vs. AI and real-world applications for each.
+      
+      What is machine learning?
+      Machine learning (ML) is a branch of artificial intelligence (AI) wherein a computer system learns from data and makes predictions or decisions based on that data. Unlike traditional programming, where computer systems follow explicit instructions to solve a problem, machine learning models require computers to identify patterns and relationships without being explicitly programmed.
+
+      Data scientists build machine learning algorithms using a wide range of approaches. These include:
+
+      Supervised learning. An approach where an ML model is programmed using organized, labeled training data.
+      Unsupervised learning. An approach that requires identifying patterns through the use of unorganized, unlabeled data.
+      Reinforcement learning. An approach where models learn to make decisions and perform tasks through trial and error.
+      
+      Over time, machine learning algorithms figure out how to solve complex tasks efficiently. They have yet to truly match human intelligence, but in some areas like object recognition and data analysis, these intelligent systems can surpass human cognitive functions in terms of speed and operational efficiency.
+
+      There is a subfield of machine learning called deep learning that creates and exploits artificial neural networks with multiple layers. Deep learning can be particularly effective for image recognition, natural language processing, speech recognition, and similarly complex problems across various domains.
+
+      What is artificial intelligence?
+
+      Artificial intelligence is a computer-based simulation of human reasoning and intelligence. AI systems use speech recognition, object recognition, pattern recognition, natural language processing, and sentiment analysis to form what’s called a neural network of computers. When properly programmed, these intelligent systems can excel at problem-solving, decision-making, and creating content that mimics what humans produce.
+
+      The goal of AI is to develop systems that think, learn, and act intelligently in real-world environments without human intervention. AI calls upon several techniques to function. These include natural language understanding, computer vision, robotics, and machine learning. In that respect, machine learning is an element of artificial intelligence.
+
+      How are artificial intelligence and machine learning related?
+
+      Machine learning is a subset of artificial intelligence. To understand the machine learning–artificial intelligence relationship, consider the following:
+
+      AI is a general concept. The broad field of AI focuses on creating systems that can perform tasks requiring human-like intelligence.
+      ML describes one of several AI tools. ML is a specific data science approach within AI that enables computers to learn from data and improve over time without being explicitly programmed.
+
+      Machine-learning algorithms let AI systems extract information from big data troves, recognize patterns, and make predictions or decisions based on that data. AI systems also can adapt to new information and improve their performance on tasks, often with minimal human intervention.
+
+      Applications for machine learning and AI
+      Retail
+      Health care
+      Finance
+      Transportation
+      Manufacturing
+
+      Machine learning and AI are actively transforming numerous industries, thanks to the technologies’ ability to mimic human behaviors and perform specific tasks like sales analysis and fraud prevention with profound speed and accuracy. Here are some examples of how machine learning and AI are applied in different sectors:
+      
+      Retail
+
+      From ecommerce stores to brick-and-mortar outlets, artificial intelligence has quickly seeped into retail. This includes:
+
+      Personalized marketing. AI marketing algorithms analyze customer behavior, preferences, and purchase history to generate personalized product recommendations, targeted advertisements, and tailored promotions, enhancing customer engagement and driving sales.
+      Inventory management. Machine learning algorithms forecast demand, optimize inventory levels, and identify trends in consumer preferences, enabling retailers to minimize stockouts, reduce excess inventory, and improve supply chain efficiency.
+      Visual search. Building on the legacy of text search engines, AI-powered visual search engines allow customers to search for products using images. 
+      
+      Health care
+
+      AI and machine learning have helped health care companies achieve increased operational efficiency and better outcomes for patients. Here are some of the ways the health care industry is incorporating AI and ML:
+
+      Drug discovery. An AI system can potentially accelerate the drug discovery process by analyzing vast amounts of biological and chemical data to identify potential drug candidates and predict their efficacy and safety.
+      Diagnosis. Machine learning algorithms can analyze data from images such as X-rays, MRIs, and CT scans to assist radiologists in detecting abnormalities and diagnosing diseases at an early stage.
+      Treatment. AI-driven diagnostic tools can analyze patient data to recommend personalized treatment plans.
+      Remote monitoring. AI-powered wearable devices and health care apps can continuously monitor patient vital signs and provide actionable insights that assist doctors with proactive intervention and remote patient management.
+      
+      Finance
+
+      AI and ML have played big roles in the financial sector, whether they’re replacing manual processes or using statistical models and predictive analytics to improve investment returns. Here are some specific applications for ML and AI in finance:
+
+      Fraud detection. Machine learning algorithms analyze transaction data to detect suspicious patterns and anomalies indicative of unauthorized activities, helping financial institutions prevent fraud and enhance security.
+      Algorithmic trading. AI-driven trading algorithms analyze market data, identify trends, and execute trades at high speeds, making for high-level data analysis that lets traders optimize investment strategies.
+      Customer service. Generative AI chatbots and virtual assistants powered by natural language processing (NLP) algorithms provide personalized recommendations, answer queries, and assist customers with services, reducing operational costs.
+      
+      Transportation
+
+      From driving to maintenance to urban planning, the transportation field has made increasing use of artificial intelligence and machine learning, such as in the following areas:
+
+      Autonomous vehicles. AI algorithms power self-driving cars and other vehicles, enabling them to perceive their environment, navigate, and make real-time decisions, potentially reducing human error.
+      Predictive maintenance. AI algorithms analyze sensor data from vehicles and infrastructure to predict maintenance needs, detect faults, and schedule maintenance.
+      Traffic management. Machine learning models analyze traffic patterns, predict congestion, and optimize traffic flow by adjusting signal timings and routing strategies, reducing travel times and improving overall traffic efficiency.
+      
+      Manufacturing
+
+      The manufacturing sector increasingly relies on AI and ML to improve operational efficiency in areas that include:
+
+      Equipment maintenance. Machine learning models analyze sensor data from machinery and equipment to predict maintenance needs, identify potential failures, and schedule maintenance activities to keep factories running and supply chains flowing.
+      Quality control. AI-powered image recognition systems inspect products for defects and the data input from assembly lines helps AI software ensure product quality while minimizing defects.
+      Supply chain optimization. AI algorithms use historical data points to optimize production schedules, route planning, and inventory management, enhancing operational efficiency, reducing costs, and improving supply chain performance.
+
+      Reference: https://www.shopify.com/blog/machine-learning-vs-ai?term=&adid=775809778489&campaignid=19724533104&utm_medium=cpc&utm_source=google&gad_source=1&gad_campaignid=19724533104&gbraid=0AAAAAC3Mv89z-91qWUoNwmuOU_r8yel0c&gclid=Cj0KCQiAvtzLBhCPARIsALwhxdoOYh--IeNoQ-WxSTwFDfMMRk-3Yq_Z8imgwDtTg-eCAqiKm3Qb8i4aAhTrEALw_wcB
+      
+      Kariyawasam Pathiranage Tharanga Mahavila
+      
+***************************************************************************************************
