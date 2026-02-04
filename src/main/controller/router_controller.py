@@ -1,7 +1,6 @@
 import sys
 from src.main.controller.menu_controller import MenuController
-from src.main.controller.encrypt_controller import EncryptController
-from src.main.controller.decrypt_controller import DecryptController
+from src.main.controller.cipher_controller import CipherController
 from src.main.util.route import Route
 
 
@@ -9,8 +8,8 @@ class RouterController:
     def __init__(self):
         self.controllers = {
             Route.MENU: MenuController(),
-            Route.ENCRYPT: EncryptController(),
-            Route.DECRYPT: DecryptController(),
+            Route.ENCRYPT: CipherController(False),
+            Route.DECRYPT: CipherController(True),
         }
 
     def start(self):

@@ -3,7 +3,7 @@ from src.main.util.route import Route
 
 class MenuController:
     def __init__(self):
-        self.login_service = None
+        self.cipher = None
 
     def start(self):
         attempts = 0
