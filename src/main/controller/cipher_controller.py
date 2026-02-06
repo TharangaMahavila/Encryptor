@@ -67,22 +67,21 @@ class CipherController:
             return Route.EXIT
 
     def substitution_cipher(self, text, secret, decrypt=False):
-        shift = secret_to_shift(secret)  # get shift value
-        if decrypt:
-            # reverse shift for decryption
-            shift = -shift
+        shift = secret_to_shift(secret) % 256
 
-        result = ""
-        for char in text:
-            if char.isalpha():
-                # determine base
-                base = ord('A') if char.isupper() else ord('a')
-                # shift character
-                result += chr((ord(char) - base + shift) % 26 + base)
-            else:
-                # keep symbols unchanged
-                result += char
-        return result
+        if not decrypt:
+            data = text.encode('utf-8')
+        else:
+            data = bytes.fromhex(text)  # ciphertext passed as hex
+
+        result = bytearray()
+        for b in data:
+            result.append((b - shift if decrypt else b + shift) % 256)
+
+        if decrypt:
+            return result.decode('utf-8')
+        else:
+            return result.hex()
 
     def _transposition_cipher(self, text, secret, decrypt=False):
         key = str(secret)  # convert secret to string
